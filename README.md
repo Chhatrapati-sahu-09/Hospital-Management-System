@@ -59,5 +59,4 @@ This project is suitable for **academic purposes**, **C programming practice**, 
 
 ### Build and Execute
 ```bash
-make all
-make run
+
